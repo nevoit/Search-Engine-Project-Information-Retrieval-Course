@@ -3,7 +3,8 @@ Our search engine was implemented with a Model-View-Controller (MVC) Architectur
 Example of our GUI:
 ![GUI](https://github.com/nevoit/Information-Retrieval/blob/master/Resources/a.png "GUI")
 
-###The Structure:
+The Structure:
+=============
 
 1.	Select the next 'parts percentage (%), of the documents from the corpus ('parts' being a pre-defined variable in Config.ini)
 2.	Send these documents to the Parser.
@@ -13,7 +14,9 @@ Example of our GUI:
 6.	Create final posting file from all the temporary files that were created in step 4.
 7.	Finish the preprocessing stage.
 
-###The Structure:
+The Model:
+=============
+
  - ReadFile – This module reads documents from the corpus.
 
 - Parser – Parses the documents (removes stop-words, converts dates to a unified format etc.).
