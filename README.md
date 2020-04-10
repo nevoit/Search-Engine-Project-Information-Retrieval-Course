@@ -3,6 +3,12 @@ Our search engine was implemented with a Model-View-Controller (MVC) Architectur
 Example of our GUI:
 ![GUI](https://github.com/nevoit/Information-Retrieval/blob/master/Resources/a.png "GUI")
 
+
+## Authors
+* **Tomer Shahar** - [Tomer Shahar](https://github.com/Tomer-Shahar)
+* **Nevo Itzhak** - [Nevo Itzhak](https://github.com/nevoit)
+
+
 The Structure:
 =============
 
