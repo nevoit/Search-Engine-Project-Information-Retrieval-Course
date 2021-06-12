@@ -23,7 +23,7 @@ The Structure:
 The Model:
 =============
 
-- Corpus - donwload from here: https://drive.google.com/file/d/10fNXU7YtxOhYMVme1efEO_b4uSkjy4_j/view?usp=sharing
+- Corpus - download from here: https://drive.google.com/file/d/10fNXU7YtxOhYMVme1efEO_b4uSkjy4_j/view?usp=sharing
 
  - ReadFile – This module reads documents from the corpus.
 
