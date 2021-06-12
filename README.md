@@ -23,6 +23,8 @@ The Structure:
 The Model:
 =============
 
+- Corpus - donwload from here: https://drive.google.com/file/d/10fNXU7YtxOhYMVme1efEO_b4uSkjy4_j/view?usp=sharing
+
  - ReadFile – This module reads documents from the corpus.
 
 - Parser – Parses the documents (removes stop-words, converts dates to a unified format etc.).
